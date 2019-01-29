@@ -1,0 +1,118 @@
+.myFooter {
+background-image: url("hero1.jpg");
+font-family: 'Righteous', cursive;
+background-size: cover;
+}
+.imgFirst1 {
+padding-left: : -80px;
+}
+.btnPlay {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.imgPlay {
+padding-left: 650px;
+}
+.displayBox {
+display: flex;
+flex-wrap:nowrap;
+justify-content: space-between;
+}
+.box1 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+height: 500px;
+font-family: 'Righteous', cursive;
+flex-wrap: wrap;
+}
+.displayBox2 {
+display: flex;
+flex-wrap:nowrap;
+justify-content: space-between;
+}
+.box2 {
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+font-family: 'Righteous', cursive;
+}
+.person {
+width: 5800px;
+}
+.map{
+display: flex;
+flex-wrap:nowrap;
+}
+.map3 {
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+flex-wrap: wrap;
+font-family: 'Righteous', cursive;
+}
+.map2 {
+width: 1800px;
+}
+.btn1 {
+margin-left:290px;
+margin-right: 290px;
+}
+.btn2 {
+margin-left:190px;
+margin-right: 190px;
+}
+.displayBox3 {
+display: flex;
+flex-wrap:nowrap;
+justify-content: space-between;
+}
+.box3 {
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+flex-basis: 0;
+flex-grow: 1;
+height: 400px;
+font-family: 'Righteous', cursive;
+flex-wrap: nowrap;
+}
+.imgFin {
+display: flex;
+flex-wrap: nowrap;
+flex-basis: 0;
+flex-grow: 1;
+}
+.imgFin1 {
+width: 80%;
+}
+.displayBox4 {
+display: flex;
+flex-wrap:nowrap;
+justify-content: space-between;
+flex-basis: 0;
+flex-grow: 1;
+}
+.imgFemme {
+
+	height: 100%;
+	width: 100%
+}
+
+.displayBox4 {
+
+      height: 100px;
+
+}
+.box4 {
+
+    display: flex;
+flex-direction: column;
+flex-basis: 0;
+flex-grow: 1;
+align-items: center;
+height: 250px;
+font-family: 'Righteous', cursive;
+
+}
