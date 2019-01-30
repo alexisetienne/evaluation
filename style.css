@@ -95,24 +95,52 @@ flex-basis: 0;
 flex-grow: 1;
 }
 .imgFemme {
-
-	height: 100%;
-	width: 100%
+height: 100%;
+width: 100%
 }
-
 .displayBox4 {
-
-      height: 100px;
-
+height: 100px;
 }
 .box4 {
-
-    display: flex;
+display: flex;
 flex-direction: column;
 flex-basis: 0;
 flex-grow: 1;
 align-items: center;
 height: 250px;
 font-family: 'Righteous', cursive;
-
+}
+.flexI {
+display: flex;
+flex-wrap: nowrap;
+margin-left: 200px;
+margin-right: 200px;
+}
+.flexI2 {
+display: flex;
+flex-wrap: nowrap;
+margin-left: 300px;
+margin-right: 300px;
+}
+.finish {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.smpln {
+display: flex;
+flex-wrap: nowrap;
+}
+#content {
+display: none;
+}
+.loader {
+position : fixed;
+z-index: 9999;
+background : url('icon-loader.gif') 50% 50% no-repeat;
+top : 0px;
+left : 0px;
+height : 100%;
+width : 100%;
+cursor : wait;
 }
